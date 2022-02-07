@@ -1,2 +1,3 @@
-# DataStructures
-CS 2413 - Data Structures Projects
+# Project 1 - Data Structures
+
+First delve into C++
